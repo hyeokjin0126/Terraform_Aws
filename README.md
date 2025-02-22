@@ -7,3 +7,19 @@ provider "aws" {
   profile = "default"
 }
 ```
+
+```
+terraform init
+```
+
+```
+terraform plan
+```
+
+```
+terraform apply
+```
+
+```
+terraform destroy
+```
